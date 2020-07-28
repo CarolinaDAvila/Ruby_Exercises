@@ -9,3 +9,6 @@ contacts["Sally Johnson"][:email] = contact_data[1][0]
 contacts["Sally Johnson"][:address] = contact_data[1][1]
 contacts["Sally Johnson"][:phone] = contact_data[1][2]
 
+
+contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"]
+contacts = {"Joe Smith" => {}
