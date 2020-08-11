@@ -1,8 +1,7 @@
 x = ""
-
-while x != "STOP"
-  puts "How are you doing today?"
-  ans = gets.chomp.upcase
-  puts "want me to ask again?"
+while x != "STOP" do 
+  puts "Hows it goin today?"
+  ans = gets.chomp
+  puts "Would you like me to ask again?"
   x = gets.chomp.upcase
 end 
