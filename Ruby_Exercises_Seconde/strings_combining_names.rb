@@ -1,0 +1,9 @@
+# Using the following code, combine the two names together to form a full name 
+# and assign that value to a variable named full_name. Then, print the value of full_name.
+
+first_name = "Carolina"
+last_name = "Avila"
+
+full_name = "#{first_name} #{last_name}"
+
+p full_name
